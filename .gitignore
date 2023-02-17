@@ -105,6 +105,7 @@ celerybeat.pid
 .env
 .venv
 env/
+# If you want to ignore an entire directory called venv, add the following line to your .gitignore file
 venv/
 ENV/
 env.bak/
