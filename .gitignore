@@ -128,3 +128,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+
+
+
+#  If you are using JetBrains IDEs such as PyCharm or IntelliJ IDEA, the IDE creates
+#  a directory called .idea in your project's root directory that contains project-specific
+#  settings and metadata. You can ignore this directory in GitHub by creating a .gitignore file and
+#  adding the following line to it:
+.idea/
